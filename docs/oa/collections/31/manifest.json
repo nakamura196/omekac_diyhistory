@@ -1,0 +1,354 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/collections/31/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京文化資源会議",
+    "label": "携帯用サイレン",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "metadata": [
+        {
+            "label": "Identifier",
+            "value": "2_002"
+        },
+        {
+            "label": "Title",
+            "value": "携帯用サイレン"
+        },
+        {
+            "label": "Rights",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+        },
+        {
+            "label": "Extent",
+            "value": "金属"
+        },
+        {
+            "label": "Description",
+            "value": [
+                "識別番号 16746",
+                "製造メーカー：伊吹工業所"
+            ]
+        },
+        {
+            "label": "Source",
+            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+        }
+    ],
+    "related": {
+        "@id": "https://diyhistory.org/public/dalab/s/20200201/item/81",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://diyhistory.org/public/dalab/api/items/81",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/public/omekac/oa/collections/31/sequence.json",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/81/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/81/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/81/canvas/p1",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/82/full/533,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/82",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2_002_001.jpg",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4944/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/82/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/82",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/81/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/81/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/81/canvas/p2",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/83/full/533,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/83",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2_002_002.jpg",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4945/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/83/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/83",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/81/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/81/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/81/canvas/p3",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/84/full/533,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/84",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2_002_003.jpg",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4946/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/84/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/84",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/81/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/81/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/81/canvas/p4",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/85/full/533,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/85",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2_002_004.jpg",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4947/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/85/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/85",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/81/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/81/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/81/canvas/p5",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/86/full/533,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/86",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2_002_005.jpg",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4948/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/86/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/86",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/81/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/81/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/81/canvas/p6",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/87/full/533,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/87",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2_002_006.jpg",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://diyhistory.org/public/dalab/iiif/81/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4949/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/87/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/87",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 5351
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/collections/31/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://diyhistory.org/public/dalab/iiif-img/82/full/200,200/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://diyhistory.org/public/dalab/iiif-img/82",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    }
+}
