@@ -1,0 +1,347 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/287/annolist.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1652/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3584,2236,1266,2312"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4850.19549,4548.71259h-633.0187v0h-633.0187v-1156.21299v-1156.21299h633.0187h633.0187v1156.21299z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_15cd6934-06e8-42d0-9718-85bbbefba3a6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-39</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1653/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4881,1420,1100,3146"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4881.12323,1419.85608h549.96741v0h549.96741v1573.16019v1573.16019h-549.96741h-549.96741v-1573.16019z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_20741f88-a390-4852-853d-644b2b19bf93\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-38</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1654/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3677,582,1180,1681"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3676.9819,581.61458h589.84415v0h589.84415v840.41613v840.41613h-589.84415h-589.84415v-840.41613z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8eef5c87-67b5-4456-867b-4dffe02f5132\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-37</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1655/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4894,592,611,822"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4894.0458,592.35338h305.26598v0h305.26598v410.86417v410.86417h-305.26598h-305.26598v-410.86417z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3cb64a44-a6c5-4474-824a-252b48ff3adb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-36</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1656/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5497,616,481,786"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5978.66451,1401.34291h-240.62298v0h-240.62298v-392.75597v-392.75597h240.62298h240.62298v392.75597z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fb40da54-d9f7-41aa-ac24-850b69d810ca\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-35</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1657/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2333,584,1048,1369"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3381.13847,1953.06961h-524.07882v0h-524.07882v-684.40824v-684.40824h524.07882h524.07882v684.40824z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_769f0fce-aceb-46cd-a552-9e9554df7756\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-40</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1658/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=913,587,1423,2154"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2336.34602,2740.94532h-711.57516v0h-711.57516v-1076.76993v-1076.76993h711.57516h711.57516v1076.76993z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1efea1c2-dbd8-4c10-ba7d-617bf84de216\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-41</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1659/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2305,1950,1080,1673"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3384.99576,3623.4673h-540.23548v0h-540.23548v-836.62633v-836.62633h540.23548h540.23548v836.62633z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_04524cbc-5f25-49e2-ae82-3bdf69faf7d6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-42</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1660/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2230,3598,1205,956"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2229.50098,3597.69419h602.37275v0h602.37275v477.80268v477.80268h-602.37275h-602.37275v-477.80268z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_58217372-2734-4bad-bca3-345ebf29e7e6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-43</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/1661/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc100a27-bdd9-47f1-8d55-ecc0c1f6db1f/canvas/p7",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=948,2669,1286,1849"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M947.578,2668.97119h643.18019v0h643.18019v924.53672v924.53672h-643.18019h-643.18019v-924.53672z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4f4fb9dc-6df1-4c18-8fa7-ea6721134068\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.01647\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/5/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>16-A00-6010-4-44</p>",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ]
+}

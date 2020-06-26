@@ -1,0 +1,75 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4836/annolist.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4980/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p11",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6308,1026,430,1551"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6308.07143,1025.71429h215.10714v0h215.10714v775.67857v775.67857h-215.10714h-215.10714v-775.67857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8d00cc08-d973-4c85-85ec-eb0d622a81cd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>東京日比谷御門内</p>\n<p>神殿新築圖</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4981/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p11",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5078,1290,890,422"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5077.92857,1290.42857h444.78571v0h444.78571v211.21429v211.21429h-444.78571h-444.78571v-211.21429z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d54cc750-a70c-4d79-8a1b-0cc5077d79fb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>本社</p>\n<p>五間</p>\n<p>七間</p>\n<p>拝殿</p>\n<p>九間</p>\n<p>拾壱間</p>",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/items/4833/annolist.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4962/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3887,1018,1614,2797"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3886.71429,1017.92857h806.82143v0h806.82143v1398.53571v1398.53571h-806.82143h-806.82143v-1398.53571z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_37b93038-5460-4beb-8e1a-6445b9c618b5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"46.71429\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>広瀬中佐銅像</p>\n<p>杉野孫七銅像</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4963/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5584,1368,1154,1715"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5584,1368.28571h577.14286v0h577.14286v857.42857v857.42857h-577.14286h-577.14286v-857.42857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b89a8859-123f-44e2-962e-dc99c3c27c12\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>万世橋駅</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4964/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4260,3984,547,430"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4260.42857,3984.28571h273.5v0h273.5v215.10714v215.10714h-273.5h-273.5v-215.10714z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ebcca70d-425b-4bc4-9fe0-68afb33e520b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>自転車</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4965/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1312,3439,559,594"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1870.21429,3439.28571h-279.28571v0h-279.28571v296.85714v296.85714h279.28571h279.28571v-296.85714z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bc0bf1af-d2c3-4a4c-8553-af88b31a937a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>市電</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4966/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2555,3914,485,454"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2555.35714,3914.21429h242.35714v0h242.35714v226.78571v226.78571h-242.35714h-242.35714v-226.78571z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c0e78cb3-4ff5-4981-8037-001384e4b092\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>箪笥</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4967/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4644,4109,418,422"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5062.35714,4108.85714h-209.21429v0h-209.21429v211.21429v211.21429h209.21429h209.21429v-211.21429z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1bfd8941-0dbf-47fb-a3fa-ca6268408081\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>巡査</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4968/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=5942,3805,438,500"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5942.14286,3805.21429h219v0h219v250.14286v250.14286h-219h-219v-250.14286z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_65833a73-1a7f-4eff-a24d-57a97f62221d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>畳</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4969/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3007,3361,407,454"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3006.92857,3361.42857h203.42857v0h203.42857v226.78571v226.78571h-203.42857h-203.42857v-226.78571z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7d57df76-6d7b-47b4-8a73-0a262a8bd862\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>畳</p>",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/items/4975/anno.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://diyhistory.org/public/dalab/iiif/26/canvas/p9",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3020,2563,1036,945"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3020.19347,2563.2485h517.88492v0h517.88492v472.46825v472.46825h-517.88492h-517.88492v-472.46825z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f6c0f690-2f86-44e6-a30a-7c560d5d622e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.95238\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://diyhistory.org/public/omekac/oa/collections/28/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "<p>神田郵便局</p>",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ]
+}
