@@ -11,6 +11,8 @@ prefix_1 = "https://diyhistory.org/public/omekac"
 prefix_2 = "../../docs"
 prefix_3 = "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs"
 
+key = "4d243dc18b79edb3fe32abf8abbaf8605453e87e"
+
 def get(data_json, data_url):
     # data_json = requests.get(data_url).json()
 

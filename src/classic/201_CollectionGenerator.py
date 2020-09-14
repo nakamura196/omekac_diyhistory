@@ -12,6 +12,8 @@ if os.path.exists(dir):
     shutil.rmtree(dir)
 os.makedirs(dir, exist_ok=True)
 
+key = "4d243dc18b79edb3fe32abf8abbaf8605453e87e"
+
 def base_generator():
     api_url = "https://diyhistory.org/public/omekac/api"
 
@@ -21,6 +23,10 @@ def base_generator():
     while loop_flg:
         url = api_url + "/collections?page=" + str(
             page)
+
+        if key != "":
+            url += "&key="+key
+
         print(url)
 
         page += 1
