@@ -24,53 +24,67 @@ def get(data_json, data_url):
         json.dump(data_json, outfile, ensure_ascii=False,
                     indent=4, sort_keys=True, separators=(',', ': '))
 
-files = glob.glob(prefix_2+"/api/collections/*.json")
+files = sorted(glob.glob(prefix_2+"/api/collections/*.json"))
 
 manifests = []
 
-for file in files:
+for k in range(len(files)):
+    file = files[k]
+
     id = file.split("/")[-1].split(".")[0]
-    
+        
     manifest_url = prefix_1 + "/oa/collections/"+str(id)+"/manifest.json"
     print(manifest_url)
 
-    manifest_json = requests.get(manifest_url).json()
+    try:
+        manifest_json = requests.get(manifest_url).json()
 
-    canvases = manifest_json["sequences"][0]["canvases"]
+        canvases = manifest_json["sequences"][0]["canvases"]
 
-    for canvas in canvases:
-        otherContent_url = canvas["otherContent"][0]["@id"]
-        print(otherContent_url)
-        canvas["otherContent"][0]["@id"] = canvas["otherContent"][0]["@id"].replace(prefix_1, prefix_3)
+        for i in range(len(canvases)):
+            canvas = canvases[i]
+            
+            otherContent_url = canvas["otherContent"][0]["@id"]
 
-        # --------
+            anno_id = int(otherContent_url.split("/")[-2])
 
-        
-        otherContent_json = requests.get(otherContent_url).json()
-        otherContent_json["@id"] = otherContent_json["@id"].replace(prefix_1, prefix_3)
+            print(i+1, len(canvases), anno_id, k+1, len(files))
 
-        resources = otherContent_json["resources"]
+            canvas["otherContent"][0]["@id"] = canvas["otherContent"][0]["@id"].replace(prefix_1, prefix_3)
 
-        if len(resources) == 0:
-            continue
+            # --------
 
-        ons = resources[0]["on"]
+            
+            otherContent_json = requests.get(otherContent_url).json()
+            otherContent_json["@id"] = otherContent_json["@id"].replace(prefix_1, prefix_3)
 
-        for on in ons:
-            on["within"]["@id"] = on["within"]["@id"].replace(prefix_1, prefix_3)
+            resources = otherContent_json["resources"]
 
-        get(otherContent_json, otherContent_url)
+            if len(resources) != 0:
 
-    manifest_json["@id"] = manifest_json["@id"].replace(prefix_1, prefix_3)
-    get(manifest_json, manifest_url)
+                ons = resources[0]["on"]
+
+                for on in ons:
+                    on["within"]["@id"] = on["within"]["@id"].replace(prefix_1, prefix_3)
+
+            get(otherContent_json, otherContent_url)
+    
+
+        manifest_json["@id"] = manifest_json["@id"].replace(prefix_1, prefix_3)
+        get(manifest_json, manifest_url)
+
+        manifests.append({
+            "@id": manifest_json["@id"],
+            "@type": "sc:Manifest",
+            "label": manifest_json["label"]
+        })
+
+    except Exception as e:
+        print(e)
 
     # --------
 
-    manifests.append({
-        "@id": manifest_json["@id"],
-        "@type": "sc:Manifest",
-        "label": manifest_json["label"]
-    })
+    
 
 
 collection = {

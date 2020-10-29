@@ -1,0 +1,166 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/240.json",
+    "added": "2020-09-03T23:32:13+00:00",
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "Etsunan"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json"
+        },
+        {
+            "element": {
+                "id": 45,
+                "name": "Publisher",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/45"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "東洋文庫"
+        },
+        {
+            "element": {
+                "id": 47,
+                "name": "Rights",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/47"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "http://example.org"
+        },
+        {
+            "element": {
+                "id": 57,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/57"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json"
+        },
+        {
+            "element": {
+                "id": 59,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/59"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json\",\"@type\":\"sc:Manifest\",\"attribution\":\"\\u6771\\u6d0b\\u6587\\u5eab\",\"label\":\"Etsunan\",\"license\":\"http://example.org\",\"related\":\"http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json\",\"sequences\":[{\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/sequence/normal\",\"@type\":\"sc:Sequence\",\"canvases\":[{\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1\",\"@type\":\"sc:Canvas\",\"height\":9150,\"images\":[{\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/annotation/p1-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1\",\"resource\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Etsunan.tif/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9150,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Etsunan.tif\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":4620}}],\"label\":\"[1]\",\"thumbnail\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Etsunan.tif/full/36,/0/default.jpg\"},\"width\":4620}],\"label\":\"Current Page Order\",\"viewingHint\":\"non-paged\"}],\"thumbnail\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Etsunan.tif/full/36,/0/default.jpg\"},\"viewingDirection\":\"left-to-right\"}"
+        },
+        {
+            "element": {
+                "id": 58,
+                "name": "IIIF Type",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/58"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "Manifest"
+        },
+        {
+            "element": {
+                "id": 65,
+                "name": "Parent Collection",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/65"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "d997080b-56de-44cd-971c-624512b25405"
+        },
+        {
+            "element": {
+                "id": 63,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/63"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "d9c09e16-c7bf-4a28-b490-22c62b03cd70"
+        }
+    ],
+    "extended_resources": [],
+    "featured": false,
+    "id": 240,
+    "items": {
+        "count": 1,
+        "resource": "items",
+        "url": "https://diyhistory.org/public/omekac/api/items?collection=240"
+    },
+    "modified": "2020-09-03T23:32:13+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": false,
+    "url": "https://diyhistory.org/public/omekac/api/collections/240"
+}
