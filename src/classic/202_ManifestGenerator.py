@@ -32,6 +32,11 @@ for k in range(len(files)):
     file = files[k]
 
     id = file.split("/")[-1].split(".")[0]
+
+    '''
+    if id != "240":
+        continue
+    '''
         
     manifest_url = prefix_1 + "/oa/collections/"+str(id)+"/manifest.json"
     print(manifest_url)
@@ -48,7 +53,7 @@ for k in range(len(files)):
 
             anno_id = int(otherContent_url.split("/")[-2])
 
-            print(i+1, len(canvases), anno_id, k+1, len(files))
+            print(i+1, "canvas num", len(canvases), "anno_id", anno_id, k+1, "file num", len(files))
 
             canvas["otherContent"][0]["@id"] = canvas["otherContent"][0]["@id"].replace(prefix_1, prefix_3)
 

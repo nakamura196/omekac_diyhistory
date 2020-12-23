@@ -1,0 +1,118 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/264.json",
+    "added": "2020-12-14T00:59:46+00:00",
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "水経注図 v10"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
+        },
+        {
+            "element": {
+                "id": 57,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/57"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json"
+        },
+        {
+            "element": {
+                "id": 59,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/59"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json\",\"@type\":\"sc:Manifest\",\"label\":\"\\u6c34\\u7d4c\\u6ce8\\u56f3\",\"attribution\":[\"\\u6771\\u6d0b\\u6587\\u5eab\"],\"thumbnail\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif/full/256,/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"sequences\":[{\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/main/sequence/normal\",\"@type\":\"sc:Sequence\",\"label\":\"Current order\",\"viewingDirection\":\"left-to-right\",\"canvases\":[{\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1\",\"@type\":\"sc:Canvas\",\"label\":\"Image 1\",\"height\":38875,\"width\":43890,\"images\":[{\"@id\":\"https://nakamura196.github.io/suikeichuuzu/iiif/main/annotation/p0001-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":38875,\"width\":43890,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1\"}]}]}]}"
+        },
+        {
+            "element": {
+                "id": 58,
+                "name": "IIIF Type",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/58"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "Manifest"
+        },
+        {
+            "element": {
+                "id": 63,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/63"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "bc0f90d0-09a9-429b-b85a-94e5842c30fb"
+        }
+    ],
+    "extended_resources": [],
+    "featured": false,
+    "id": 264,
+    "items": {
+        "count": 1,
+        "resource": "items",
+        "url": "https://diyhistory.org/public/omekac/api/items?collection=264"
+    },
+    "modified": "2020-12-14T01:00:55+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": true,
+    "url": "https://diyhistory.org/public/omekac/api/collections/264"
+}

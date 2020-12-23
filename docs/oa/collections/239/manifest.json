@@ -1,0 +1,22 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_diyhistory/master/docs/oa/collections/239/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "水経注図",
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/public/omekac/oa/collections/239/sequence.json",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": ""
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/search/1/context.json",
+            "@id": "https://diyhistory.org/public/omekac/oa/collections/239/search",
+            "label": "Search this manifest with Omeka",
+            "profile": "http://iiif.io/api/search/1/search"
+        }
+    ]
+}
