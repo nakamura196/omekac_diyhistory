@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/a3c950a9f4b0142a54df7aeb859f75fb/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/manifest/range",
+            "@type": "sc:Range",
+            "label": "捃拾帖 一",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/canvas/p1#xywh=2400,3480,592,610",
+                    "@type": "sc:Canvas",
+                    "label": "<p><img src=\"https://www.pref.oita.jp/uploaded/attachment/12856.jpg\" alt=\"aaaa\" width=\"667\" height=\"500\" />&nbsp;</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/manifest",
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 一"
+            }
+        }
+    ]
+}

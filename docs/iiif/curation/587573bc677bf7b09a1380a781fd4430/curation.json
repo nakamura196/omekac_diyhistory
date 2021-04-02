@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/587573bc677bf7b09a1380a781fd4430/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/manifest/range",
+            "@type": "sc:Range",
+            "label": "捃拾帖 十九",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p2#xywh=792,3058,1429,1831",
+                    "@type": "sc:Canvas",
+                    "label": "<p>中村覚</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p2#xywh=3834,890,2579,3647",
+                    "@type": "sc:Canvas",
+                    "label": "<p>ここに作業者名（必須）と備考（任意）を書きます。ここに何かしらの文字列がないと表示でアノテーションがうまく表示されません。</p>\n<p>タグは半角・全角スペースで分けます。スペースを一つのタグの中に入力したい場合には、「_、＿（アンダーバー）」を使ってください。</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p2#xywh=792,461,2942,2586",
+                    "@type": "sc:Canvas",
+                    "label": "中村覚"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p2#xywh=1860,1422,249,695",
+                    "@type": "sc:Canvas",
+                    "label": "<p>あ</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p2#xywh=806,2486,382,515",
+                    "@type": "sc:Canvas",
+                    "label": "<p>あ</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p2#xywh=2144,1023,553,1151",
+                    "@type": "sc:Canvas",
+                    "label": "<p>ああ</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p3#xywh=4020,611,2504,2494",
+                    "@type": "sc:Canvas",
+                    "label": "<p>中村美里</p>\n<p>testタグ</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/canvas/p73#xywh=3029,683,1639,1431",
+                    "@type": "sc:Canvas",
+                    "label": "<p>さんぷる</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87c6ab5d-eeb2-4b73-8c2c-8a6044b667de/manifest",
+                "@type": "sc:Manifest",
+                "label": "捃拾帖 十九"
+            }
+        }
+    ]
+}

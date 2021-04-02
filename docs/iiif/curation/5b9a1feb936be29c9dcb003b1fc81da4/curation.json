@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/5b9a1feb936be29c9dcb003b1fc81da4/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/manifest/range",
+            "@type": "sc:Range",
+            "label": "藤裏葉",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p26#xywh=3768,1044,180,112",
+                    "@type": "sc:Canvas",
+                    "label": "<p>bbbb</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p26#xywh=3565,1056,138,108",
+                    "@type": "sc:Canvas",
+                    "label": "<p>aaaa</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/manifest",
+                "@type": "sc:Manifest",
+                "label": "藤裏葉"
+            }
+        }
+    ]
+}

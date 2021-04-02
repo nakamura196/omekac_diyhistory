@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/c8ba6d8b6c24dae1c5875f6014d18bb4/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/2591573/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "一遍聖繪. [1]",
+            "members": [
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=4543,1678,175,262",
+                    "@type": "sc:Canvas",
+                    "label": "<p>abc</p>"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=2672,3160,3111,2063",
+                    "@type": "sc:Canvas",
+                    "label": "<p>aaa</p>"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=4211,6866,175,262",
+                    "@type": "sc:Canvas",
+                    "label": "<p>abv</p>"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/9#xywh=2422,2840,4588,3611",
+                    "@type": "sc:Canvas",
+                    "label": "<p>サンプル</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/2591573/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "一遍聖繪. [1]"
+            }
+        }
+    ]
+}

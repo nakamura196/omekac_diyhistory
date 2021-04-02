@@ -21,6 +21,13 @@ members = {}
 selections = {}
 manifests = []
 
+import re
+
+def cleanhtml(raw_html):
+  cleanr = re.compile('<.*?>')
+  cleantext = re.sub(cleanr, '', raw_html)
+  return cleantext
+
 for file in files:
 
     with open(file) as f:
@@ -45,6 +52,7 @@ for file in files:
 
         if canvas_uuid not in members:
             members[canvas_uuid] = []
+
         members[canvas_uuid].append({
             "xywh" : region,
             "label" : value
@@ -53,7 +61,10 @@ for file in files:
     else:
         canvas_uuid = metadata["UUID"]
         canvas_id = metadata["Original @id"]
-        selections[canvas_id] = canvas_uuid
+
+        if canvas_id not in selections:
+            selections[canvas_id] = []
+        selections[canvas_id].append(canvas_uuid)
 
         manifest = metadata["Source"]
 
@@ -61,8 +72,6 @@ for file in files:
             manifests.append(manifest)
 
 import hashlib
-
-
 
 for i in range(len(manifests)):
     selections_new = []
@@ -101,20 +110,24 @@ for i in range(len(manifests)):
         canvas_id = canvas["@id"]
 
         if canvas_id in selections:
-            canvas_uuid = selections[canvas_id]
 
-            if canvas_uuid not in members: # ちょっとなぞ
-                continue
-            members_ = members[canvas_uuid]
+            uuids = selections[canvas_id]
 
-            for member in members_:
-                member_ = {
-                    "@id" : canvas_id+"#xywh="+member["xywh"],
-                    "label" : member["label"],
-                    "@type": "sc:Canvas"
-                }
+            for canvas_uuid in uuids:
 
-                members_new.append(member_)
+                if canvas_uuid not in members: # ちょっとなぞ
+                    continue
+                
+                members_ = members[canvas_uuid]
+
+                for member in members_:
+                    member_ = {
+                        "@id" : canvas_id+"#xywh="+member["xywh"],
+                        "label" : cleanhtml(member["label"]),
+                        "@type": "sc:Canvas"
+                    }
+
+                    members_new.append(member_)
 
     if len(members_new) > 0:
         selection = {

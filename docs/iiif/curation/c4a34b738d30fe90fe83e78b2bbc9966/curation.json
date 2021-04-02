@@ -1,0 +1,463 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/c4a34b738d30fe90fe83e78b2bbc9966/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu04_chouan",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=4077,2810,226,269",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-11</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=819,162,198,73",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-05</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1894,1255,244,67",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-13</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3817,1202,274,86",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-03</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2693,1852,95,86",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-27</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=471,2064,134,92",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-47</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=846,1687,262,79",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-28</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2156,1179,116,143",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-09</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3554,2055,65,175",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-07</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=853,2102,121,76",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-32</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3118,1841,189,93",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-23</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2734,2294,89,69",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-31</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=999,1372,190,65",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-24</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=967,1417,275,80",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-25</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2775,2168,116,89",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-30</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2896,1530,190,109",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-22</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=833,2169,221,56",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-33</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3616,2053,123,249",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-06</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1962,1067,139,78",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-10</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=477,1979,139,76",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-46</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1547,1994,139,80",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-29</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3087,2053,209,84",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-26</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1442,2929,183,101",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-50</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3869,1142,147,97",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-02</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1919,1313,204,85",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-14</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1140,261,151,99",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-06</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=4362,2521,151,228",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-10</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3140,1124,172,89",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-17</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1520,1643,127,80",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-19</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=833,2229,235,70",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-34</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3169,1566,127,199",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-21</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2284,2249,251,206",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-34</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1498,1723,89,184",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-22</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2551,945,139,71",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-13</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=823,24,198,65",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-03</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1413,1202,134,83",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-15</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3843,215,188,99",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-01</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1467,2122,168,87",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-38</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2551,2656,239,74",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-37</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2002,2707,127,96",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-41</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1493,2438,179,89",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-40</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2555,2596,228,67",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-36</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1458,2283,177,83",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-39</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1386,1271,201,72",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-16</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=819,93,213,75",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-04</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2533,730,148,101",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-12</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1003,1309,197,69",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-23</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2549,2226,179,85",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-32</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3116,1503,213,76",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-20</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1957,2189,186,148",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-35</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2511,1135,251,72",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-16</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1621,1710,76,186",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-20</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2567,2529,201,87",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-35</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3143,1436,181,87",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-19</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1986,2512,132,98",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-36</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1420,2557,136,74",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-43</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1977,1517,255,322",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-17</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1430,38,161,81",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-01</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2471,1070,298,72",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-15</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2489,997,280,78",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-14</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1428,110,169,89",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-02</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1527,1394,172,98",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-18</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1932,2769,280,89",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-42</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=4300,2540,132,201",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-38</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1635,2187,331,378",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-37</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3151,1209,164,179",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-18</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2596,2318,89,121",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-33</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1565,1717,74,177",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-21</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=457,1795,201,98",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-45</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3785,1996,148,211",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-05</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1908,1119,217,85",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-11</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1688,388,193,104",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-07</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3356,2014,193,79",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-09</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=994,1484,219,74",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-26</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=417,2279,208,103",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-49</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2316,1790,256,265",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-29</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3049,1992,261,79",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-25</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1066,2041,152,67",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-30</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1090,2115,130,70",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-31</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3061,1915,258,92",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-24</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=2646,1956,189,144",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-28</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=869,1632,112,74",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-27</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=132,2021,262,96",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-48</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3385,1936,155,88",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-08</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1570,890,204,99",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-08</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1890,1190,246,67",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-12</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3839,1278,201,162",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(a)0-04</p>"
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1343,2608,289,92",
+                    "@type": "sc:Canvas",
+                    "label": "<p>CTCA(b)0-44</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu04_chouan"
+            }
+        }
+    ]
+}

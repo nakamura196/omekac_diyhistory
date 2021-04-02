@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/6cd35a16858d420aaa1497e3030391ad/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87878a8b-d0d3-45fc-831e-c58d875f6560/manifest/range",
+            "@type": "sc:Range",
+            "label": "捃拾印刷雑帖",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87878a8b-d0d3-45fc-831e-c58d875f6560/canvas/p9#xywh=3158,558,941,975",
+                    "@type": "sc:Canvas",
+                    "label": "<p>ｄ</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87878a8b-d0d3-45fc-831e-c58d875f6560/canvas/p9#xywh=2071,618,1261,2072",
+                    "@type": "sc:Canvas",
+                    "label": "<p>あ</p>"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87878a8b-d0d3-45fc-831e-c58d875f6560/canvas/p9#xywh=3077,1485,720,3594",
+                    "@type": "sc:Canvas",
+                    "label": "<p>ｄ</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87878a8b-d0d3-45fc-831e-c58d875f6560/manifest",
+                "@type": "sc:Manifest",
+                "label": "捃拾印刷雑帖"
+            }
+        }
+    ]
+}

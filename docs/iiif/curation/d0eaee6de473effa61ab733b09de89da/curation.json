@@ -1,0 +1,103 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/d0eaee6de473effa61ab733b09de89da/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "正保琉球国悪鬼納島絵図写",
+            "members": [
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=23690,11586,301,712",
+                    "@type": "sc:Canvas",
+                    "label": "<p>琉球国</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=10122,10666,136,122",
+                    "@type": "sc:Canvas",
+                    "label": "<p>干潟</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=7177,9247,281,274",
+                    "@type": "sc:Canvas",
+                    "label": "<p>首里王城</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=5323,5999,215,202",
+                    "@type": "sc:Canvas",
+                    "label": "<p>あこすあふぁ</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=15591,9604,217,245",
+                    "@type": "sc:Canvas",
+                    "label": "<p>川田村</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=22728,11701,198,698",
+                    "@type": "sc:Canvas",
+                    "label": "<p>高弐百三石</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=13470,9128,92,175",
+                    "@type": "sc:Canvas",
+                    "label": "<p>遠干潟</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=14737,7664,184,190",
+                    "@type": "sc:Canvas",
+                    "label": "<p>運天村</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=22579,11637,722,877",
+                    "@type": "sc:Canvas",
+                    "label": "<p>テキスト</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=18177,10711,84,102",
+                    "@type": "sc:Canvas",
+                    "label": "<p>干潟</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=14358,6507,88,87",
+                    "@type": "sc:Canvas",
+                    "label": "<p>干潟</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=17863,10662,71,107",
+                    "@type": "sc:Canvas",
+                    "label": "<p>干潟</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=17956,10534,226,210",
+                    "@type": "sc:Canvas",
+                    "label": "<p>ああ</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=13189,6222,66,219",
+                    "@type": "sc:Canvas",
+                    "label": "<p>???</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=19091,13269,230,631",
+                    "@type": "sc:Canvas",
+                    "label": "<p>恵平屋嶋</p>"
+                },
+                {
+                    "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json/canvas/p1#xywh=11672,8287,107,85",
+                    "@type": "sc:Canvas",
+                    "label": "<p>干潟</p>"
+                }
+            ],
+            "within": {
+                "@id": "https://lab-hi.github.io/map/iiif/3/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "正保琉球国悪鬼納島絵図写"
+            }
+        }
+    ]
+}
