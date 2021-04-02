@@ -62,12 +62,12 @@ for file in files:
 
 import hashlib
 
-selections_new = []
+
 
 for i in range(len(manifests)):
-    manifest = manifests[i]
+    selections_new = []
 
-    print(i+1, len(manifests))
+    manifest = manifests[len(manifests) - i - 1]    
 
     hash = hashlib.md5(manifest.encode('utf-8')).hexdigest()
 
@@ -86,6 +86,12 @@ for i in range(len(manifests)):
 
     with open(path) as f:
         m = json.load(f)
+
+    if "sequences" not in m:
+        print("KeyError: 'sequences'", manifest)
+        continue
+
+    print(i+1, len(manifests), m["label"], hash)
 
     canvases = m["sequences"][0]["canvases"]
 
@@ -124,23 +130,23 @@ for i in range(len(manifests)):
         }
         selections_new.append(selection)
 
-curation = {
-    "@context": [
-        "http://iiif.io/api/presentation/2/context.json",
-        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
-    ],
-    "@type": "cr:Curation",
-    "@id" : prefix + "/iiif/curation/all.json",
-    "label" : "琉球国絵図プロジェクト",
-    "selections" : selections_new
-}
+    curation = {
+        "@context": [
+            "http://iiif.io/api/presentation/2/context.json",
+            "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+        ],
+        "@type": "cr:Curation",
+        "@id" : prefix + "/iiif/curation/"+hash+"/curation.json",
+        "label" : "琉球国絵図プロジェクト",
+        "selections" : selections_new
+    }
 
-opath = "../docs/iiif/curation/all.json"
-dirname = os.path.dirname(opath)
-os.makedirs(dirname, exist_ok=True)
+    opath = "../docs/iiif/curation/"+hash+"/curation.json"
+    dirname = os.path.dirname(opath)
+    os.makedirs(dirname, exist_ok=True)
 
-with open(opath, 'w') as outfile:
-    json.dump(curation, outfile, ensure_ascii=False,
-                indent=4, sort_keys=True, separators=(',', ': '))
+    with open(opath, 'w') as outfile:
+        json.dump(curation, outfile, ensure_ascii=False,
+                    indent=4, sort_keys=True, separators=(',', ': '))
 
 
