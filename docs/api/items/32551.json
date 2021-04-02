@@ -1,0 +1,171 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/32551.json",
+    "added": "2020-07-12T12:38:25+00:00",
+    "collection": null,
+    "element_texts": [
+        {
+            "element": {
+                "id": 60,
+                "name": "On Canvas",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/60"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": false,
+            "text": "2854fcb4-c8d2-4cfd-803c-ac86fa66756a"
+        },
+        {
+            "element": {
+                "id": 64,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/64"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "b2bde9ab-9703-4dff-b316-86c22a1b0192"
+        },
+        {
+            "element": {
+                "id": 55,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/55"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "https://diyhistory.org/public/omekac/oa/items/32551/anno.json"
+        },
+        {
+            "element": {
+                "id": 1,
+                "name": "Text",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/1"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": true,
+            "text": "<p>中村寿々葉</p>"
+        },
+        {
+            "element": {
+                "id": 61,
+                "name": "Selector",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/61"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": false,
+            "text": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7166.5218,5147.10763h-1552.99183v0h-1552.99183v-1182.61035v-1182.61035h1552.99183h1552.99183v1182.61035z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_3a5b3df4-219f-4079-92bf-a60e394f41bd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"48.31063\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        {
+            "element": {
+                "id": 62,
+                "name": "Annotated Region",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/62"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": false,
+            "text": "4061,2782,3106,2365"
+        },
+        {
+            "element": {
+                "id": 56,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/56"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@type\":\"oa:Annotation\",\"motivation\":[\"oa:commenting\",\"oa:tagging\"],\"resource\":[{\"@type\":\"dctypes:Text\",\"format\":\"text/html\",\"chars\":\"<p>中村寿々葉</p>\"},{\"@type\":\"oa:Tag\",\"chars\":\"本郷区春木町一丁目角_八百定\"}],\"on\":[{\"@type\":\"oa:SpecificResource\",\"full\":\"https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8ca2356e-ccde-4403-891e-c3817926a2ca/canvas/p8\",\"selector\":{\"@type\":\"oa:Choice\",\"default\":{\"@type\":\"oa:FragmentSelector\",\"value\":\"xywh=4061,2782,3106,2365\"},\"item\":{\"@type\":\"oa:SvgSelector\",\"value\":\"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\\\"http://www.w3.org/2000/svg\\\" d=\\\"M7166.5218,5147.10763h-1552.99183v0h-1552.99183v-1182.61035v-1182.61035h1552.99183h1552.99183v1182.61035z\\\" data-paper-data=\\\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\\\" id=\\\"rectangle_3a5b3df4-219f-4079-92bf-a60e394f41bd\\\" fill-opacity=\\\"0.00001\\\" fill=\\\"#00bfff\\\" fill-rule=\\\"nonzero\\\" stroke=\\\"#00bfff\\\" stroke-width=\\\"48.31063\\\" stroke-linecap=\\\"butt\\\" stroke-linejoin=\\\"miter\\\" stroke-miterlimit=\\\"10\\\" stroke-dasharray=\\\"\\\" stroke-dashoffset=\\\"0\\\" font-family=\\\"none\\\" font-weight=\\\"none\\\" font-size=\\\"none\\\" text-anchor=\\\"none\\\" style=\\\"mix-blend-mode: normal\\\"/></svg>\"}},\"within\":{\"@id\":\"https://diyhistory.org/public/omekac/oa/collections/82/manifest.json\",\"@type\":\"sc:Manifest\"}}],\"@id\":\"https://diyhistory.org/public/omekac/oa/items/32551/anno.json\"}"
+        },
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": true,
+            "text": "Annotation: \"中村寿々葉\""
+        }
+    ],
+    "extended_resources": {
+        "exhibit_pages": {
+            "count": 0,
+            "resource": "exhibit_pages",
+            "url": "https://diyhistory.org/public/omekac/api/exhibit_pages?item=32551"
+        }
+    },
+    "featured": false,
+    "files": {
+        "count": 0,
+        "resource": "files",
+        "url": "https://diyhistory.org/public/omekac/api/files?item=32551"
+    },
+    "id": 32551,
+    "item_type": {
+        "id": 18,
+        "name": "Annotation",
+        "resource": "item_types",
+        "url": "https://diyhistory.org/public/omekac/api/item_types/18"
+    },
+    "modified": "2020-08-31T07:24:39+00:00",
+    "owner": {
+        "id": 2,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/2"
+    },
+    "public": true,
+    "tags": [
+        {
+            "id": 350,
+            "name": "本郷区春木町一丁目角_八百定",
+            "resource": "tags",
+            "url": "https://diyhistory.org/public/omekac/api/tags/350"
+        }
+    ],
+    "url": "https://diyhistory.org/public/omekac/api/items/32551"
+}

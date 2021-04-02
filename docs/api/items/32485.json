@@ -1,0 +1,195 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/32485.json",
+    "added": "2020-07-04T12:51:29+00:00",
+    "collection": null,
+    "element_texts": [
+        {
+            "element": {
+                "id": 60,
+                "name": "On Canvas",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/60"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": false,
+            "text": "3b57936e-5624-4280-b36b-31bc1c7bc1c2"
+        },
+        {
+            "element": {
+                "id": 64,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/64"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "4a112aef-e86c-4f63-8e11-480f7ba9e56e"
+        },
+        {
+            "element": {
+                "id": 55,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/55"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "https://diyhistory.org/public/omekac/oa/items/32485/anno.json"
+        },
+        {
+            "element": {
+                "id": 1,
+                "name": "Text",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/1"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": true,
+            "text": "<p>中村寿々葉</p>"
+        },
+        {
+            "element": {
+                "id": 61,
+                "name": "Selector",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/61"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": false,
+            "text": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5139.53837,2735.93479h1012.25255v0h1012.25255v1228.79008v1228.79008h-1012.25255h-1012.25255v-1228.79008z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_73369f3a-cf5f-4b16-9127-9e11a8a96742\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"48.31063\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        {
+            "element": {
+                "id": 62,
+                "name": "Annotated Region",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/62"
+            },
+            "element_set": {
+                "id": 3,
+                "name": "Item Type Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/3"
+            },
+            "html": false,
+            "text": "5140,2736,2025,2458"
+        },
+        {
+            "element": {
+                "id": 56,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/56"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@type\":\"oa:Annotation\",\"motivation\":[\"oa:commenting\",\"oa:tagging\"],\"resource\":[{\"@type\":\"dctypes:Text\",\"format\":\"text/html\",\"chars\":\"<p>中村寿々葉</p>\"},{\"@type\":\"oa:Tag\",\"chars\":\"Owari_Cotton_Mill.\"},{\"@type\":\"oa:Tag\",\"chars\":\"尾張紡績株式会社製品\"},{\"@type\":\"oa:Tag\",\"chars\":\"熱田\"},{\"@type\":\"oa:Tag\",\"chars\":\"登録商標\"},{\"@type\":\"oa:Tag\",\"chars\":\"綿̪絲\"}],\"on\":[{\"@type\":\"oa:SpecificResource\",\"full\":\"https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8ca2356e-ccde-4403-891e-c3817926a2ca/canvas/p5\",\"selector\":{\"@type\":\"oa:Choice\",\"default\":{\"@type\":\"oa:FragmentSelector\",\"value\":\"xywh=5140,2736,2025,2458\"},\"item\":{\"@type\":\"oa:SvgSelector\",\"value\":\"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\\\"http://www.w3.org/2000/svg\\\" d=\\\"M5139.53837,2735.93479h1012.25255v0h1012.25255v1228.79008v1228.79008h-1012.25255h-1012.25255v-1228.79008z\\\" data-paper-data=\\\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\\\" id=\\\"rectangle_73369f3a-cf5f-4b16-9127-9e11a8a96742\\\" fill-opacity=\\\"0.00001\\\" fill=\\\"#00bfff\\\" fill-rule=\\\"nonzero\\\" stroke=\\\"#00bfff\\\" stroke-width=\\\"48.31063\\\" stroke-linecap=\\\"butt\\\" stroke-linejoin=\\\"miter\\\" stroke-miterlimit=\\\"10\\\" stroke-dasharray=\\\"\\\" stroke-dashoffset=\\\"0\\\" font-family=\\\"none\\\" font-weight=\\\"none\\\" font-size=\\\"none\\\" text-anchor=\\\"none\\\" style=\\\"mix-blend-mode: normal\\\"/></svg>\"}},\"within\":{\"@id\":\"https://diyhistory.org/public/omekac/oa/collections/82/manifest.json\",\"@type\":\"sc:Manifest\"}}],\"@id\":\"https://diyhistory.org/public/omekac/oa/items/32485/anno.json\"}"
+        },
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": true,
+            "text": "Annotation: \"中村寿々葉\""
+        }
+    ],
+    "extended_resources": {
+        "exhibit_pages": {
+            "count": 0,
+            "resource": "exhibit_pages",
+            "url": "https://diyhistory.org/public/omekac/api/exhibit_pages?item=32485"
+        }
+    },
+    "featured": false,
+    "files": {
+        "count": 0,
+        "resource": "files",
+        "url": "https://diyhistory.org/public/omekac/api/files?item=32485"
+    },
+    "id": 32485,
+    "item_type": {
+        "id": 18,
+        "name": "Annotation",
+        "resource": "item_types",
+        "url": "https://diyhistory.org/public/omekac/api/item_types/18"
+    },
+    "modified": "2020-08-31T07:24:41+00:00",
+    "owner": {
+        "id": 2,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/2"
+    },
+    "public": true,
+    "tags": [
+        {
+            "id": 204,
+            "name": "Owari_Cotton_Mill.",
+            "resource": "tags",
+            "url": "https://diyhistory.org/public/omekac/api/tags/204"
+        },
+        {
+            "id": 205,
+            "name": "尾張紡績株式会社製品",
+            "resource": "tags",
+            "url": "https://diyhistory.org/public/omekac/api/tags/205"
+        },
+        {
+            "id": 201,
+            "name": "熱田",
+            "resource": "tags",
+            "url": "https://diyhistory.org/public/omekac/api/tags/201"
+        },
+        {
+            "id": 203,
+            "name": "登録商標",
+            "resource": "tags",
+            "url": "https://diyhistory.org/public/omekac/api/tags/203"
+        },
+        {
+            "id": 202,
+            "name": "綿̪絲",
+            "resource": "tags",
+            "url": "https://diyhistory.org/public/omekac/api/tags/202"
+        }
+    ],
+    "url": "https://diyhistory.org/public/omekac/api/items/32485"
+}

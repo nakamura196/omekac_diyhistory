@@ -34,6 +34,12 @@ for file in files:
 
     if item["item_type"] and item["item_type"]["name"] == "Annotation":
         region = metadata["Annotated Region"]
+
+        if "Text" not in metadata:
+            # print("error", file)
+            print("https://diyhistory.org/public/omekac/admin/items/show/"+file.split("/")[-1].split(".")[0])
+            continue
+
         value = metadata["Text"]
         canvas_uuid = metadata["On Canvas"]
 
@@ -58,7 +64,11 @@ import hashlib
 
 selections_new = []
 
-for manifest in manifests:
+for i in range(len(manifests)):
+    manifest = manifests[i]
+
+    print(i+1, len(manifests))
+
     hash = hashlib.md5(manifest.encode('utf-8')).hexdigest()
 
     path = "data/"+hash+".json"

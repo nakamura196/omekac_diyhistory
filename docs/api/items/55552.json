@@ -1,0 +1,131 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/55552.json",
+    "added": "2021-01-22T03:58:44+00:00",
+    "collection": {
+        "id": 272,
+        "resource": "collections",
+        "url": "https://diyhistory.org/public/omekac/api/collections/272"
+    },
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "[267]"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://d1av1vcgsldque.cloudfront.net/iiif/8483/manifest.json"
+        },
+        {
+            "element": {
+                "id": 55,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/55"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "https://d1av1vcgsldque.cloudfront.net/iiif/8483/manifest.json/canvas/p267"
+        },
+        {
+            "element": {
+                "id": 56,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/56"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "{\"@id\":\"https://d1av1vcgsldque.cloudfront.net/iiif/8483/manifest.json/canvas/p267\",\"@type\":\"sc:Canvas\",\"height\":1591,\"images\":[{\"@id\":\"https://d1av1vcgsldque.cloudfront.net/iiif/8483/manifest.json/annotation/p267-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://d1av1vcgsldque.cloudfront.net/iiif/8483/manifest.json/canvas/p267\",\"resource\":{\"@id\":\"https://d1av1vcgsldque.cloudfront.net/files/original/1564 \\u91cb\\u79aa\\u6ce2\\u7f85\\u871c\\u6b21\\u7b2c\\u6cd5\\u958010\\u5377/image267.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":1591,\"width\":1988}}],\"label\":\"[267]\",\"thumbnail\":{\"@id\":\"https://d1av1vcgsldque.cloudfront.net/files/medium/1564 \\u91cb\\u79aa\\u6ce2\\u7f85\\u871c\\u6b21\\u7b2c\\u6cd5\\u958010\\u5377/image267.jpg\"},\"width\":1988}"
+        },
+        {
+            "element": {
+                "id": 54,
+                "name": "Display as IIIF?",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/54"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "Yes"
+        },
+        {
+            "element": {
+                "id": 64,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/64"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "02b375e9-ac51-485e-af57-15df19140a57"
+        }
+    ],
+    "extended_resources": {
+        "exhibit_pages": {
+            "count": 0,
+            "resource": "exhibit_pages",
+            "url": "https://diyhistory.org/public/omekac/api/exhibit_pages?item=55552"
+        }
+    },
+    "featured": false,
+    "files": {
+        "count": 0,
+        "resource": "files",
+        "url": "https://diyhistory.org/public/omekac/api/files?item=55552"
+    },
+    "id": 55552,
+    "item_type": null,
+    "modified": "2021-01-22T03:58:44+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": false,
+    "tags": [],
+    "url": "https://diyhistory.org/public/omekac/api/items/55552"
+}

@@ -1,0 +1,131 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/33362.json",
+    "added": "2020-08-31T06:55:57+00:00",
+    "collection": {
+        "id": 237,
+        "resource": "collections",
+        "url": "https://diyhistory.org/public/omekac/api/collections/237"
+    },
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "[5]"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/manifest"
+        },
+        {
+            "element": {
+                "id": 55,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/55"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p5"
+        },
+        {
+            "element": {
+                "id": 56,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/56"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p5\",\"@type\":\"sc:Canvas\",\"label\":\"[5]\",\"thumbnail\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/genji/TIFF/A00_6587/33/33_0005.tif/full/200,200/0/default.jpg\",\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/genji/TIFF/A00_6587/33/33_0005.tif\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"width\":6642,\"height\":4990,\"images\":[{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/annotation/p0005-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/genji/TIFF/A00_6587/33/33_0005.tif/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":6642,\"height\":4990,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/genji/TIFF/A00_6587/33/33_0005.tif\",\"profile\":\"http://iiif.io/api/image/2/level2.json\",\"width\":6642,\"height\":4990}},\"on\":\"https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p5\"}]}"
+        },
+        {
+            "element": {
+                "id": 54,
+                "name": "Display as IIIF?",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/54"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "Yes"
+        },
+        {
+            "element": {
+                "id": 64,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/64"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "62a4d56c-003c-4cda-82ce-1525e611428c"
+        }
+    ],
+    "extended_resources": {
+        "exhibit_pages": {
+            "count": 0,
+            "resource": "exhibit_pages",
+            "url": "https://diyhistory.org/public/omekac/api/exhibit_pages?item=33362"
+        }
+    },
+    "featured": false,
+    "files": {
+        "count": 0,
+        "resource": "files",
+        "url": "https://diyhistory.org/public/omekac/api/files?item=33362"
+    },
+    "id": 33362,
+    "item_type": null,
+    "modified": "2020-12-19T23:13:58+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": true,
+    "tags": [],
+    "url": "https://diyhistory.org/public/omekac/api/items/33362"
+}
