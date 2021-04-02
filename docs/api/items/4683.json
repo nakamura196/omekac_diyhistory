@@ -1,0 +1,127 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/4683.json",
+    "added": "2020-01-16T14:22:33+00:00",
+    "collection": null,
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "1"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://www.dl.ndl.go.jp/api/iiif/2591573/manifest.json"
+        },
+        {
+            "element": {
+                "id": 55,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/55"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1"
+        },
+        {
+            "element": {
+                "id": 56,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/56"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1\",\"@type\":\"sc:Canvas\",\"height\":9660,\"images\":[{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=332926,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000001/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000001\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=323928,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000002/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000002\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=314930,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000003/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000003\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=305932,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000004/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000004\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=296934,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000005/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000005\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=287936,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000006/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000006\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=278938,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000007/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000007\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=269940,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000008/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000008\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=260942,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000009/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000009\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=251944,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000010/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000010\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=242946,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000011/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000011\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=233948,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000012/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000012\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=224950,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000013/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000013\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=215952,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000014/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000014\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=206954,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000015/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000015\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=197956,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000016/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000016\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=188958,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000017/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000017\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=179960,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000018/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000018\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=170962,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000019/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000019\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=161964,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000020/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000020\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=152966,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000021/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000021\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=143968,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000022/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000022\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=134970,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000023/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000023\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=125972,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000024/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000024\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=116974,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000025/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000025\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=107976,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000026/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000026\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=98978,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000027/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000027\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=89980,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000028/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000028\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=80982,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000029/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000029\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=71984,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000030/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000030\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=62986,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000031/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000031\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=53988,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000032/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000032\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=44990,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000033/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000033\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=35992,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000034/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000034\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=26994,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000035/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000035\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=17996,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000036/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000036\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=8998,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000037/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000037\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}},{\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"on\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/canvas/1#xywh=0,0,8998,9660\",\"resource\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000038/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"height\":9660,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/R0000038\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"},\"width\":8998}}],\"label\":\"1\",\"thumbnail\":{\"@id\":\"https://www.dl.ndl.go.jp/api/iiif/2591573/F0000001/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\"},\"width\":341924}"
+        },
+        {
+            "element": {
+                "id": 54,
+                "name": "Display as IIIF?",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/54"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "Yes"
+        },
+        {
+            "element": {
+                "id": 64,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/64"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "d3096ab6-d77c-4a31-96f8-04fe2fc5ceeb"
+        }
+    ],
+    "extended_resources": {
+        "exhibit_pages": {
+            "count": 0,
+            "resource": "exhibit_pages",
+            "url": "https://diyhistory.org/public/omekac/api/exhibit_pages?item=4683"
+        }
+    },
+    "featured": false,
+    "files": {
+        "count": 0,
+        "resource": "files",
+        "url": "https://diyhistory.org/public/omekac/api/files?item=4683"
+    },
+    "id": 4683,
+    "item_type": null,
+    "modified": "2020-04-21T10:55:21+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": true,
+    "tags": [],
+    "url": "https://diyhistory.org/public/omekac/api/items/4683"
+}
