@@ -23,6 +23,8 @@ manifests = []
 
 import re
 
+map = {}
+
 def cleanhtml(raw_html):
   cleanr = re.compile('<.*?>')
   cleantext = re.sub(cleanr, '', raw_html)
@@ -100,7 +102,12 @@ for i in range(len(manifests)):
         print("KeyError: 'sequences'", manifest)
         continue
 
-    print(i+1, len(manifests), m["label"], hash)
+    label = m["label"]
+    print(i+1, len(manifests), label, hash)
+    
+    if label in map:
+        print("label", "dupppp")
+    map[label] = hash
 
     canvases = m["sequences"][0]["canvases"]
 
@@ -163,3 +170,4 @@ for i in range(len(manifests)):
                     indent=4, sort_keys=True, separators=(',', ': '))
 
 
+print(map)
