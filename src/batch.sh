@@ -1,0 +1,3 @@
+python 201_CollectionGenerator.py
+python 207_ItemGenerator.py
+python 302_crete_each_curation.py
