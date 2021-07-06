@@ -1,0 +1,134 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/275.json",
+    "added": "2021-07-06T13:00:37+00:00",
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "全体図（グリッド版）"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/manifest"
+        },
+        {
+            "element": {
+                "id": 45,
+                "name": "Publisher",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/45"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "東洋文庫 / Toyo Bunko"
+        },
+        {
+            "element": {
+                "id": 57,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/57"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/manifest"
+        },
+        {
+            "element": {
+                "id": 59,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/59"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@id\":\"https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/manifest\",\"@type\":\"sc:Manifest\",\"label\":\"\\u5168\\u4f53\\u56f3\\uff08\\u30b0\\u30ea\\u30c3\\u30c9\\u7248\\uff09\",\"thumbnail\":{\"@id\":\"https://app.toyobunko-lab.jp/files/medium/e8a2f54ce68453b6d3130c98239e434d7c8808fc.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":null,\"height\":null},\"attribution\":\"\\u6771\\u6d0b\\u6587\\u5eab / Toyo Bunko\",\"related\":{\"@id\":\"https://app.toyobunko-lab.jp/s/main/document/277ed4d4-2074-4fa7-bda4-86d3df52202b\",\"format\":\"text/html\"},\"seeAlso\":{\"@id\":\"https://app.toyobunko-lab.jp/api/items/909\",\"format\":\"application/ld+json\"},\"metadata\":[{\"label\":\"Title\",\"value\":\"\\u5168\\u4f53\\u56f3\\uff08\\u30b0\\u30ea\\u30c3\\u30c9\\u7248\\uff09\"},{\"label\":\"Identifier\",\"value\":\"277ed4d4-2074-4fa7-bda4-86d3df52202b\"}],\"sequences\":[{\"@id\":\"https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/sequence/normal\",\"@type\":\"sc:Sequence\",\"label\":\"Current Page Order\",\"viewingDirection\":\"left-to-right\",\"canvases\":[{\"@id\":\"https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/canvas/p1\",\"@type\":\"sc:Canvas\",\"label\":\"1\",\"thumbnail\":{\"@id\":\"https://app.toyobunko-lab.jp/files/medium/e8a2f54ce68453b6d3130c98239e434d7c8808fc.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":null,\"height\":null},\"width\":43890,\"height\":38875,\"images\":[{\"@id\":\"https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/annotation/p0001-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":43890,\"height\":38875,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif\",\"profile\":\"http://iiif.io/api/image/2/level1.json\"}},\"on\":\"https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/canvas/p1\"}]}]}]}"
+        },
+        {
+            "element": {
+                "id": 58,
+                "name": "IIIF Type",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/58"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "Manifest"
+        },
+        {
+            "element": {
+                "id": 63,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/63"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "959ee8cb-7ee0-4627-807a-a684ce853670"
+        }
+    ],
+    "extended_resources": [],
+    "featured": false,
+    "id": 275,
+    "items": {
+        "count": 1,
+        "resource": "items",
+        "url": "https://diyhistory.org/public/omekac/api/items?collection=275"
+    },
+    "modified": "2021-07-06T13:00:37+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": false,
+    "url": "https://diyhistory.org/public/omekac/api/collections/275"
+}

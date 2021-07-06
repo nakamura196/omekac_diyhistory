@@ -1,0 +1,55 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif0/iiif/wakan.json",
+    "@type": "sc:Manifest",
+    "description": "",
+    "label": "倭寇図巻",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "logo": "",
+    "metadata": [],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/iiif0/iiif/wakan/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/wakan/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/iiif0/iiif/wakan/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/iiif0/files/tile/wakan/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/iiif0/files/tile/wakan",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 42000
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/iiif0/files/tile/wakan/full/164,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 12,
+                        "width": 164
+                    },
+                    "width": 42000
+                }
+            ],
+            "label": "Current Page Order"
+        }
+    ],
+    "viewingDirection": "",
+    "viewingHint": "",
+    "within": ""
+}

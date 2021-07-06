@@ -1,0 +1,115 @@
+{
+    "@id": "https://diyhistory.org/public/omekac/api/57450.json",
+    "added": "2021-05-22T21:07:27+00:00",
+    "collection": {
+        "id": 274,
+        "resource": "collections",
+        "url": "https://diyhistory.org/public/omekac/api/collections/274"
+    },
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "[1]"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://nakamura196.github.io/iiif0/iiif/wakan.json"
+        },
+        {
+            "element": {
+                "id": 55,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/55"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "https://nakamura196.github.io/iiif0/iiif/wakan/canvas/p1"
+        },
+        {
+            "element": {
+                "id": 56,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/56"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "{\"label\":\"[1]\",\"width\":42000,\"height\":3000,\"@type\":\"sc:Canvas\",\"@id\":\"https://nakamura196.github.io/iiif0/iiif/wakan/canvas/p1\",\"images\":[{\"@type\":\"oa:Annotation\",\"on\":\"https://nakamura196.github.io/iiif0/iiif/wakan/canvas/p1\",\"motivation\":\"sc:painting\",\"resource\":{\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":42000,\"height\":3000,\"@id\":\"https://nakamura196.github.io/iiif0/files/tile/wakan/full/full/0/default.jpg\",\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://nakamura196.github.io/iiif0/files/tile/wakan\",\"profile\":\"http://iiif.io/api/image/2/level0.json\"}}}],\"thumbnail\":{\"@id\":\"https://nakamura196.github.io/iiif0/files/tile/wakan/full/164,/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":164,\"height\":12}}"
+        },
+        {
+            "element": {
+                "id": 64,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/public/omekac/api/elements/64"
+            },
+            "element_set": {
+                "id": 5,
+                "name": "IIIF Item Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/public/omekac/api/element_sets/5"
+            },
+            "html": false,
+            "text": "58bda686-d57e-4cf0-8749-ebb1c805fce5"
+        }
+    ],
+    "extended_resources": {
+        "exhibit_pages": {
+            "count": 0,
+            "resource": "exhibit_pages",
+            "url": "https://diyhistory.org/public/omekac/api/exhibit_pages?item=57450"
+        }
+    },
+    "featured": false,
+    "files": {
+        "count": 0,
+        "resource": "files",
+        "url": "https://diyhistory.org/public/omekac/api/files?item=57450"
+    },
+    "id": 57450,
+    "item_type": null,
+    "modified": "2021-05-22T21:09:02+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/public/omekac/api/users/1"
+    },
+    "public": true,
+    "tags": [],
+    "url": "https://diyhistory.org/public/omekac/api/items/57450"
+}

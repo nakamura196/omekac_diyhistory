@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/dcb29049e62382f7dd000c0fc4b9a408/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/manifest/range",
+            "@type": "sc:Range",
+            "label": "全体図（グリッド版）",
+            "members": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/canvas/p1#xywh=43234,10867,11,16",
+                    "@type": "sc:Canvas",
+                    "label": "東12南3上端"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/canvas/p1#xywh=40694,-20,15,23",
+                    "@type": "sc:Canvas",
+                    "label": "東12北4上端"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/canvas/p1#xywh=42626,6204,11,16",
+                    "@type": "sc:Canvas",
+                    "label": "東12中"
+                }
+            ],
+            "within": {
+                "@id": "https://app.toyobunko-lab.jp/iiif/2/277ed4d4-2074-4fa7-bda4-86d3df52202b/manifest",
+                "@type": "sc:Manifest",
+                "label": "全体図（グリッド版）"
+            }
+        }
+    ]
+}
